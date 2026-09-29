@@ -21,3 +21,16 @@
 - **Framework:** Laravel
 - **Frontend:** Blade Templates, Bootstrap 5, FontAwesome
 - **Database:** SQLite
+
+---
+
+## Application Preview
+
+### 1. Home Screen
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3f4dff09-436d-4ec7-8163-11c7bff24915" />
+
+### 2. View Task Screen
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/200f4311-eb18-4084-bf84-e0aa92f5d36d" />
+
+### 3. Edit Task Screen
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/60f30234-dd34-4db8-8393-7f0c2af8d558" />
